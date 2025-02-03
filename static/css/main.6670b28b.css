@@ -1,0 +1,2 @@
+.counter button{&.reset{width:-webkit-max-content;width:max-content}}.counter{gap:10px}.counter,.counter button{align-items:center;display:flex;justify-content:center;padding:10px}.counter button{background:none;border:1px solid #000;border-radius:4px;font-size:16px;height:20px;width:20px;&.reset{width:-webkit-max-content;width:max-content}}
+/*# sourceMappingURL=main.6670b28b.css.map*/
