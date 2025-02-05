@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/counter-redux/static/css/main.23f7f1a6.css",
-    "main.js": "/counter-redux/static/js/main.f1bdc273.js",
-    "index.html": "/counter-redux/index.html",
-    "static/media/delete.svg": "/counter-redux/static/media/delete.db69a2e05e885f08da92.svg",
-    "main.23f7f1a6.css.map": "/counter-redux/static/css/main.23f7f1a6.css.map",
-    "main.f1bdc273.js.map": "/counter-redux/static/js/main.f1bdc273.js.map"
+    "main.css": "/todolist-counter-redux/static/css/main.e7c96910.css",
+    "main.js": "/todolist-counter-redux/static/js/main.f1bdc273.js",
+    "index.html": "/todolist-counter-redux/index.html",
+    "static/media/delete.svg": "/todolist-counter-redux/static/media/delete.db69a2e05e885f08da92.svg",
+    "main.e7c96910.css.map": "/todolist-counter-redux/static/css/main.e7c96910.css.map",
+    "main.f1bdc273.js.map": "/todolist-counter-redux/static/js/main.f1bdc273.js.map"
   },
   "entrypoints": [
-    "static/css/main.23f7f1a6.css",
+    "static/css/main.e7c96910.css",
     "static/js/main.f1bdc273.js"
   ]
 }
