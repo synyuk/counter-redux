@@ -9,7 +9,7 @@ function Task(props){
     }
 
     return(
-        <div className="task"><input type="checkbox"/>
+        <div className="task">
             <p>{props.taskName}</p>
             <div className="delete" onClick={deleteTaskHandler} ></div>
         </div>

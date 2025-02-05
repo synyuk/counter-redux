@@ -1,6 +1,6 @@
 {
-  "homepage": "https://synyuk.github.io/counter-redux/",
-  "name": "counter-redux",
+  "homepage": "https://synyuk.github.io/todolist-counter-redux/",
+  "name": "todolist-counter-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
