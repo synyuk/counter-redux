@@ -1,0 +1,31 @@
+.App-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App-wrapper .App-tabs {
+  display: flex;
+  border: 1px solid #000;
+  border-radius: 10px;
+  margin: 50px 15px 15px 15px;
+  overflow: hidden;
+}
+.App-wrapper .App-tabs li {
+  list-style: none;
+  padding: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  width: 50%;
+  white-space: nowrap;
+}
+.App-wrapper .App-tabs li.active {
+  background-color: #000;
+  color: #fff;
+}
+.App-wrapper .App-tabs li:first-child {
+  border-right: 1px solid #000;
+}
+
+/*# sourceMappingURL=App.css.map */
