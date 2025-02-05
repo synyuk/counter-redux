@@ -1,0 +1,29 @@
+.App-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ .App-tabs{
+   display: flex;
+   border: 1px solid #000;
+   border-radius: 10px;
+   margin: 50px 15px 15px 15px;
+   overflow: hidden;
+   li{
+     list-style: none;
+     padding: 15px;
+     font-weight: bold;
+     text-transform: uppercase;
+     cursor: pointer;
+     width: 50%;
+     white-space: nowrap;
+     &.active{
+       background-color: #000;
+       color: #fff;
+     }
+     &:first-child{
+       border-right: 1px solid #000;
+     }
+   }
+ }
+}
