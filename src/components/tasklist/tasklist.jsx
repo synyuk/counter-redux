@@ -24,7 +24,7 @@ function Tasklist() {
                     <button onClick={addTaskHandler} id="add-task-btn">Додати завдання</button>
                 </div>
                 <div className="task-list">
-                    {task.length}
+                    {/*{task.length}*/}
                     {task.length === 0 && <p id="start-message">Немає нових завдань</p>}
                     {task.map( (task, index) => <Task taskName={task} key={index} />)}
                 </div>
